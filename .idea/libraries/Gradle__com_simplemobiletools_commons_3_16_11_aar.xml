@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.simplemobiletools:commons:3.16.11@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8f23dd982fbb69b213a902fb23432fa/transformed/commons-3.16.11/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8f23dd982fbb69b213a902fb23432fa/transformed/commons-3.16.11/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f8f23dd982fbb69b213a902fb23432fa/transformed/commons-3.16.11/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simplemobiletools/commons/3.16.11/6b979ae278e9008b7849fcee25e398d58c6b0f0/commons-3.16.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

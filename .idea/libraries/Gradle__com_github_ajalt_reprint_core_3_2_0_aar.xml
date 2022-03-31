@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ajalt.reprint:core:3.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b45473f250555a928e575b545b2fb43/transformed/core-3.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b45473f250555a928e575b545b2fb43/transformed/core-3.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1b45473f250555a928e575b545b2fb43/transformed/core-3.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.reprint/core/3.2.0/857cf0250f69d85e8c7e3926bbc034bffe21b18d/core-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.reprint/core/3.2.0/fb0b76402412ca0cf9f9db64bdaf3d057c8ac9ec/core-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide:4.6.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f0f0bd0f87f3828b9802c98e76f650f7/transformed/glide-4.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e36ab73a4a8246ba7beaa28438b98bec/transformed/glide-4.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67bfcc347d8ba669ad5ee6f49e60964c/transformed/glide-4.6.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/67bfcc347d8ba669ad5ee6f49e60964c/transformed/glide-4.6.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/67bfcc347d8ba669ad5ee6f49e60964c/transformed/glide-4.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.6.1/3c7f1d3c81a9d1a437d16a150d5b47a014d26b9/glide-4.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.6.1/8a2a7dd66e095284e0ab8b481c0ad0a4e0bd2f16/glide-4.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
